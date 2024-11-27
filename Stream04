@@ -664,6 +664,22 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 
+
+
+================== TNT ==================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/2048px-TNT_Logo_2016.svg.png" channel-number="63" group-title="RM STREAM CHANNEL",TNT
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/96162.ts
+
+
+================== TNT SPORTS ==================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&s" channel-number="64" group-title="RM STREAM CHANNEL",TNT SPORTS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/110708.ts
+
+
+
+
 ================== ANIMAX ==================
 
 
