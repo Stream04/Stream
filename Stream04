@@ -654,15 +654,15 @@ http://5.223.45.65:18890/celestialmoviespinoy/miswa/manifest.mpd?token=68d682877
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 
-================== ANIMAX ==================
+================== TAP MOVIES ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest/scale-to-width-down/1200?cb=20210920125940" channel-number="62" group-title="RM STREAM CHANNEL", TAP MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
+#KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 
 ================== ANIMAX ==================
 
