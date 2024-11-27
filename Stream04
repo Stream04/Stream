@@ -621,11 +621,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 https://fl5.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.m3u8
 
 
-================== TNT SPORTS ==================
+================== NICK JR ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgccaOIjB-QFxDD3UmZdT5oaoMEPphL3XAR2OHR9St00ohZDREZcQXw5ScLqp0Obotmg&usqp=CAU" channel-number="59" group-title="RM STREAM CHANNEL", TNT SPORTS 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" channel-number="60" group-title="RM STREAM CHANNEL", NICK JR
+http://apkandweb.ddns.net/6377635294/6663568605/674
 
 
 ================== NBA BACKUP ==================
