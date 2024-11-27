@@ -697,3 +697,68 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+
+
+================================================ NBA LEAGUE PASS =========================================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180619/qrs/aa6z0hayr.webp" channel-number="" group-title="NBA LEAGUE PASS", ATLANTA HAWKS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102109.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png" channel-number="" group-title="NBA LEAGUE PASS", BOSTON CELTIS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102110.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2018/05/Brooklyn-Nets-Logo.png" channel-number="" group-title="NBA LEAGUE PASS", BROOKLYN NETS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102111.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/800px-Charlotte_Hornets_%282014%29.svg.png" channel-number="" group-title="NBA LEAGUE PASS", CHARLOTTE HORNETS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102112.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", CHICAGO BULS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102113.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clipartmax.com/png/middle/131-1310126_cavs-logo-cleveland-cavaliers-logo.png" channel-number="" group-title="NBA LEAGUE PASS", CLEAVELAND CAVALIERS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102114.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", DALLAS MAVERICS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102115.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png" channel-number="" group-title="NBA LEAGUE PASS", DENVER NUGETS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102116.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_of_the_Detroit_Pistons.svg/1200px-Logo_of_the_Detroit_Pistons.svg.png" channel-number="" group-title="NBA LEAGUE PASS", DETRIOT PISTON
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102117.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", GOLDEN STATE WARRIORS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102118.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg" channel-number="" group-title="NBA LEAGUE PASS", HOUSTON ROCKETS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102119.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/1200px-Indiana_Pacers.svg.png" channel-number="" group-title="NBA LEAGUE PASS", INDIANA PACERS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102120.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png" channel-number="" group-title="NBA LEAGUE PASS", LOS ANGELES CLIPPERS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102121.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/800px-Los_Angeles_Lakers_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", LOS ANGELES LAKERS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102122.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png" channel-number="" group-title="NBA LEAGUE PASS", MEMPHIS GRIZZLIES
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102123.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/800px-Miami_Heat_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", MIAMI HEAT
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102124.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Milwaukee_Bucks_logo.svg/800px-Milwaukee_Bucks_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", MILWAUKEE BUCKS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102125.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/800px-Minnesota_Timberwolves_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", MINNESOTA TIMBERWOLVES
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102126.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/New_Orleans_Pelicans_logo.svg/1200px-New_Orleans_Pelicans_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", NEW ORLEANS PELICANS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/1200px-New_York_Knicks_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", NEW YORK KNICKS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102128.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png" channel-number="" group-title="NBA LEAGUE PASS", OKLAHOMA CITY THUNDER
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102129.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", ORLANDO MAGIC 
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102130.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", PHILADEPIA 76ERS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102131.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Phoenix_Suns_logo.svg" channel-number="" group-title="NBA LEAGUE PASS", PHOENIX SUNS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102132.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg" channel-number="" group-title="NBA LEAGUE PASS", PORTLAND TRAIL BLAZERS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102133.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/SacramentoKings.svg/1200px-SacramentoKings.svg.png" channel-number="" group-title="NBA LEAGUE PASS", SACRAMENTO KINGS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102134.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg" channel-number="" group-title="NBA LEAGUE PASS", SAN ANTONIO SPURS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102135.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/toronto-raptors-logo-transparent.png" channel-number="" group-title="NBA LEAGUE PASS", TORONTO RAPTORS
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102136.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/511/180/png-transparent-utah-jazz-logo-nba-graphics-nba-emblem-text-logo.png" channel-number="" group-title="NBA LEAGUE PASS", UTAH JAZZ
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102137.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/800px-Washington_Wizards_logo.svg.png" channel-number="" group-title="NBA LEAGUE PASS", WASHINGTON WIZARD
+http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/102138.ts
