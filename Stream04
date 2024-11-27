@@ -599,6 +599,26 @@ https://meowmeowphc.blogspot.com/heartofasia.m3u8
 https://meowmeowphc.blogspot.com/iheartmovies.m3u8
 
 
+
+
+================== THRILL ==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" channel-number="58" group-title="LOCAL CHANNEL", THRILL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
+
+
+
+
+
+
+
+
 ================== TNT ==================
 
 
@@ -628,25 +648,10 @@ http://5.223.45.65:18890/celestialmoviespinoy/miswa/manifest.mpd?token=68d682877
 
 
 
-
-
 ================== ANIMAX ==================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="LOCAL CHANNEL", UAAP VARSETY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-
-
-
-================== ANIMAX ==================
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" channel-number="" group-title="RM STREAM CHANNEL", 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" channel-number="" group-title="RM STREAM CHANNEL", 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
